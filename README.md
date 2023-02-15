@@ -1,6 +1,25 @@
 
 A03 Repo for IS117 
 
+Webstorm Directions: 
+ * Create a Github account
+ * Click on your repostories
+ * Click New
+ * Name the repository 
+ * Select "Public" repository
+ * Select "Add a README.md file"
+ * Create the repository
+ * Click on "Settings" 
+ * Select "pages"
+ * Select the correct branch and folder 
+ * Underneath that click on "Learn to add a Jekyll theme on your site" 
+ * Find the code of the theme you like
+ * Go back to your repository and create a file by selecting "Add file"
+ * Name it "_config.yml" and add the code for your theme
+ * "Commit changes" to save your changes and add a message to keep track of yout repo's history
+ 
+
+Glossary: 
  * Branch: Allows you to keep your files organized, fix issues, and more.
  * Clone: This is a copy of your existing Github repository. 
  * Commit: is a GIT command that keeps track of our repository/projects timeline.
